@@ -40,11 +40,11 @@ SurveyGram is an innovative survey platform built with a Django backend and a Re
 
 ## Important Note
 
-Currently SurveyGram is not licensed under any specific clause. To protect it from piracy and intellectual theft, I, Sumeet Katke, the team leader and owner of this repository, have decided not to disclose the source code. The repository includes proprietary components such as a `Custom State Manager`, `Custom SurveyCard Loading`, `Data Security Methodologies`, and `Database Schema` and many others, which constitute as my intellectual property. We will soon make it open-source and allow contributers to help us enhance our platform.
+Currently SurveyGram is not licensed under any specific clause. To protect it from piracy and intellectual theft, I, Pragati Talekar, the team member and owner of this repository, have decided not to disclose the source code. The repository includes proprietary components such as a `Custom State Manager`, `Custom SurveyCard Loading`, `Data Security Methodologies`, and `Database Schema` and many others, which constitute as my intellectual property. We will soon make it open-source and allow contributers to help us enhance our platform.
 
 _The usage methods provided further may fail due to unavalabilty of source code in the repository._
 ### Educational Use
-However, to support individuals who aim to use this for educational purposes, exceptions may be considered. If you are interested in using this repository for learning, please feel free to contact me via [LinkedIn](www.linkedin.com/in/sumeetkatke) or [email](mailto:snkatke9874@gmail.com). Your interest and commitment to learning are always appreciated.
+However, to support individuals who aim to use this for educational purposes, exceptions may be considered. If you are interested in using this repository for learning, please feel free to contact me via [LinkedIn](www.linkedin.com/in/pragatitalekar) or [email](mailto:pragatitalekar31@gmail.com). Your interest and commitment to learning are always appreciated.
 
 # Meet the Team
 ## Guide:
